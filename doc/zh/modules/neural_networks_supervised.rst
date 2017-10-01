@@ -1,5 +1,5 @@
 .. _neural_networks_supervised:
-神经网络监督
+
 ==================================
 Neural network models (supervised)
 ==================================
